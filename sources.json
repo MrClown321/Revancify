@@ -31,4 +31,12 @@
             "version": null
         }
     }
+    {
+        "source": "Anddea",
+        "repository": "Aunali321/ReVancedExperiments",
+        "api": {
+            "json": "https://raw.githubusercontent.com/Aunali321/ReVancedExperiments/refs/heads/main/patches.json",
+            "version": null
+        }
+    }
 ]
