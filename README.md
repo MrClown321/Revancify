@@ -33,7 +33,11 @@
 ```
 curl -sL https://github.com/decipher3114/Revancify/raw/refs/heads/main/install.sh | bash
 ```
+_____________________________________________
 
+```
+curl -sL https://github.com/MrClown321/Revancify/raw/refs/heads/main/install.sh | bash
+```
 ## Usage
 After installation, type `revancify` in termux and press enter.  
 
